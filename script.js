@@ -11,7 +11,7 @@ function checkAnswer() {
     msg.style.color = "#f273a0";
 
     setTimeout(() => {
-      window.location.href = "question/flowerbloom.html";
+      window.location.href = "https://roseday.manishsharma0.com.np/";
     }, 2000);
   } else {
     msg.innerText = "That’s not our story ❤️";
@@ -28,3 +28,4 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 });
+
